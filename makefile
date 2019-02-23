@@ -1,12 +1,3 @@
-
-# makefile
-
-# -udelat README.md
-# 	- titulek
-# 	- date
-#   - cat guessinggame.sh | wc -l
-
-
 make:
 	@echo "# Guessing Game [assignment, Week 4]" > README.md
 	@echo "" >> README.md
